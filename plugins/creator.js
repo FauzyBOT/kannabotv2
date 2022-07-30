@@ -25,7 +25,7 @@ let teksbio = `${htki} *BIODATA* ${htka}
 *sᴛᴀᴛᴜs:* single 
 
 *ʙɪʀᴛʜᴅᴀʏ:* 21 Des 2002
-*ᴀᴅᴅʀᴇss:* Indonesia, Jawa Barat, Bandung
+*ᴀᴅᴅʀᴇss:* Indonesia, Aceh Timur, Peunarun 
 
 *- - sᴋɪʟʟs: - -* 
 > JavaScript [89.7%]
